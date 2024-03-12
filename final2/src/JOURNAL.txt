@@ -1,0 +1,47 @@
+12/1/2022 - 2:30 PM start
+I started at the top of my UML diagram and made classes as I needed them so that I wouldn't be
+too overwhelmed by all these empty files. I filled in all the instance variables and method stubs
+that I had in my first UML diagram that I knew wasn't going to be changed after I updated it based on
+the feedback that I received in class. I compiled files every so often to make sure that I wasn't
+making any mistakes that would cost me a chain reaction bug that I'd have to fix later on. It was a 
+fairly straightforward session of coding, and I'm going to dive into the complexities tomorrow.
+
+12/2/2022 - 8:00 PM start
+I finished implementing nearly all my classes (except the main class). I coded the basic functionality
+of almost all hierarchy classes except for AssignedSeating due to an obstacle/gap in logic that I
+had when designing my UML, making it require a little more thought before successfully implementing. I 
+then was also unable to code the specific details of the Potluck class which also extends Party. 
+I finished three classes and spent a good amount of time sorting out my Party hierarchy.
+
+12/5/2022 - 1:00 PM start
+I spent many hours building upon my classes and correcting my UML mistakes as I went. I finished creating all
+of my classes and cemented the purpose for all of them except for my interface, which I am having trouble
+figuring out how to implement across the two hierarchies. Using the MVC methodology really made deciding what
+functions to put in which classes a lot easier. My program only seems to be getting more complicated as I think
+of more things to implement, so I think I just really need to focus on meeting the requirements before I try
+to get too fancy.
+
+12/6/2022 - 2:00 PM start
+I'm in hell :| I coded for 8 hours STRAIGHT and still feel like there are so many loose ends. I've been keeping
+track of what I need to do on a sticky note, and the list just keeps going. I "finished" my parsers, and I put
+that in quotations because I think a lot of them are not going to work. This is just so complicated and I wish
+I had foreseen all of this.
+
+12/7/2022 - 3:00 PM start
+My program runs... it doesn't do much beyond that, though. I think I'm close to done. I worked a lot on
+EviteProgram. I tied up a lot of loose ends such as the object file strings, but I still have no idea if I'm
+eventually going to have to redo all of them...
+
+12/8/2022 - 6:00 PM start
+My parties refuse to write and parse correctly and I cannot for the life of me figure out what's going on. I'm
+going to code in a view party info that includes all the specific details so that I can try to pinpoint where
+the problem is starting. I'm going to have a mental breakdown!!! I've worked on this project for OVER 24 HOURS
+in the past 5 days... when you want something you want it bad I guess.. on the sixth, I didn't even leave my
+room lol... I'm losing my mind. The only thing that truly works correctly is Users (in its entirety) and creating
+Dinner and FoodGuest objects... which means I have SUCH a long way to go. I think the Potluck stuff will be
+easy because the extra instance variable is just a string/ArrayList.
+
+12/10/2022 - 1:00 PM start
+I forgot to make a journal entry for the eight-hour session I coded for yesterday, but I finished all of the
+functionality yesterday and put finishing touches on today on the view stuff. I am so done with this project
+and it has drained me! Hugs and kisses happy holidays!
